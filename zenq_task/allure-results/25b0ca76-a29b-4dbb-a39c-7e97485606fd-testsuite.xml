@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1540204609448' stop='1540204639080'>
+    <name>amazon page</name>
+    <title>amazon page</title>
+    <test-cases>
+        <test-case start='1540204609449' status='passed' stop='1540204639076'>
+            <name>Should successfully complete the registraion part</name>
+            <title>Should successfully complete the registraion part</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0a60554d-83ac-421c-bbd7-a064acd5155b-attachment.png' type='image/png' size='292381'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
