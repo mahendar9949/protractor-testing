@@ -2,7 +2,7 @@ exports.config = {
     framework: 'jasmine2',
     directConnect: true,
     seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['./tests/amazon.js'],
+    specs: ['./tests/login_test.js'],
     multiCapabilities: [{
         browserName: 'chrome',
         "crmuxdriverVersion": '0.1.0',

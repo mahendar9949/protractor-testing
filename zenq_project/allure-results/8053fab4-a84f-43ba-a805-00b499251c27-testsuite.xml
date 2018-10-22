@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1540202611073' stop='1540202625135'>
+    <name>Amazon Data driven Protractor Script</name>
+    <title>Amazon Data driven Protractor Script</title>
+    <test-cases>
+        <test-case start='1540202611073' status='passed' stop='1540202625134'>
+            <name>Reading data from JASON file</name>
+            <title>Reading data from JASON file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='13de0e59-fe5d-4f84-b9ac-bc097a429bed-attachment.png' type='image/png' size='1457902'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
